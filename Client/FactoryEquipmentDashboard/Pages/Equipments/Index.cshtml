@@ -1,0 +1,29 @@
+﻿@page
+@model FactoryEquipmentDashboard.Pages.Equipments.IndexModel
+@{
+    var view = Model.SelectedEquipment;
+}
+
+<div class="row">
+    <div class="card col">
+        <div class="card-body">
+            <h4>@view.Name</h4>
+            <p> @view.Status</p>
+        </div>
+        <a class="btn btn-primary" asp-page="/Equipments/StatesLog" asp-route-id="@view.Id" role="button">View Logs</a>
+    </div>
+    <div class="card col-12">
+        <h4>Change Equipment State</h4><hr />
+        <form method="post">
+            <div class="card-body form-floating mb-3">
+                <select class="form-select" asp-for="SelectedState" asp-items="Model.States">
+                    <option value="">Select New State</option>
+                </select>
+                <label asp-for="SelectedState">State</label>
+                <span asp-validation-for="SelectedState" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" class="btn btn-primary" value='Update State'>
+        </form>
+    </div>
+</div>

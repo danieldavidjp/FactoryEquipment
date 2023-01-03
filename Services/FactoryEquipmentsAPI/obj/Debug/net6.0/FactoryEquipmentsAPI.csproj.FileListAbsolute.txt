@@ -1,0 +1,570 @@
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\FactoryEquipmentsAPI.exe
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\FactoryEquipmentsAPI.deps.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\FactoryEquipmentsAPI.runtimeconfig.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\FactoryEquipmentsAPI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\FactoryEquipmentsAPI.pdb
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.csproj.AssemblyReference.cache
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.AssemblyInfoInputs.cache
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.AssemblyInfo.cs
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.csproj.CoreCompileInputs.cache
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.FactoryEquipmentsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.FactoryEquipmentsAPI.props
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FactoryEquipmentsAPI.props
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FactoryEquipmentsAPI.props
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\FactoryEquipmentsAPI.styles.css
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.csproj.CopyComplete
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\refint\FactoryEquipmentsAPI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.pdb
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\FactoryEquipmentsAPI.genruntimeconfig.cache
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\obj\Debug\net6.0\ref\FactoryEquipmentsAPI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Npgsql.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\MessagePack.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.Common.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lego Test\FactoryEquipmentsAPI\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\appsettings.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\FactoryEquipmentsAPI.exe
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\FactoryEquipmentsAPI.deps.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\FactoryEquipmentsAPI.runtimeconfig.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\FactoryEquipmentsAPI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\FactoryEquipmentsAPI.pdb
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Humanizer.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\MessagePack.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Build.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Npgsql.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.Common.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.csproj.AssemblyReference.cache
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.AssemblyInfoInputs.cache
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.AssemblyInfo.cs
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.csproj.CoreCompileInputs.cache
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets\msbuild.FactoryEquipmentsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FactoryEquipmentsAPI.props
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FactoryEquipmentsAPI.props
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FactoryEquipmentsAPI.props
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\scopedcss\bundle\FactoryEquipmentsAPI.styles.css
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.csproj.CopyComplete
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\refint\FactoryEquipmentsAPI.dll
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.pdb
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\FactoryEquipmentsAPI.genruntimeconfig.cache
+D:\LegoTest\FactoryEquipments\Services\FactoryEquipmentsAPI\obj\Debug\net6.0\ref\FactoryEquipmentsAPI.dll

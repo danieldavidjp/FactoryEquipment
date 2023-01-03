@@ -1,0 +1,35 @@
+﻿@page
+@model FactoryEquipmentDashboard.Pages.Logs.LogsModel
+@{
+}
+<div class="row">
+    <div class="card col">
+        <div class="card-body">
+            <h5 class="card-title title">Logs for all Equipments</h5>
+            <div class="table-vertical-scroll">
+                <table class="table w-100">
+                    <thead>
+                        <tr>
+                            <th>Equipment</th>
+                            <th>Status</th>
+                            <th>Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var logs in Model.EquipmentsLogs)
+                        {
+                            <tr>
+                                <td>@logs.EquipmentId</td>
+                                <td>@logs.Status</td>
+                                <td>@logs.CreatedAt</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <br>
+        </div>
+        <br />
+        <p>To check invidual machine states go to view logs option in the machine interface</p>
+    </div>
+</div>

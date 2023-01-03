@@ -1,0 +1,66 @@
+﻿@page
+@model FactoryEquipmentDashboard.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Equipment";
+}
+
+<h1>Equipment</h1>
+
+<hr />
+<div class="row">
+    <div class="card col">
+        <div class="card-body">
+            <h5 class="card-title title">Equipments</h5>
+            <div class="table-vertical-scroll">
+                <table class="table w-100">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var equipment in Model.View)
+                        {
+                            <tr>
+                                <td>@equipment.Id</td>
+                                <td>
+                                    <a asp-page="/Equipments/Index" asp-route-id=@equipment.Id>
+                                        @equipment.Name
+                                    </a>
+                                </td>
+                                <td>@equipment.Status</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <br>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="card col-md-4">
+        <h5 class="card-title title">New Equipment</h5>
+        <div class="card-body">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <hr />
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
